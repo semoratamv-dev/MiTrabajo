@@ -1,4 +1,6 @@
 *{
+outline: 1px rgb(10, 10, 10) solid;
+	margin: 15px; 
   box-sizing: border-box;
 }
 body{
