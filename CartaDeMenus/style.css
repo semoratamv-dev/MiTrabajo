@@ -7,6 +7,12 @@ body{
 
   font-family: sans-serif;
 }
+h1,h2{
+  text-align:center;
+}
+h1{
+  font-family:'GothicE', 'Arial Narrow', Arial, sans-serif;
+}
 img{
   max-width: 100%;
 }
